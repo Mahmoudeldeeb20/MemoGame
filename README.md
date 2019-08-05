@@ -5,6 +5,7 @@
 1. HTML
 2. CSS
 3. JS
+
 **Framework Used**
 1. Bootstrap
 2. JQuery
